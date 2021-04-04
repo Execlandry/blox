@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
                   ),
                   Expanded(
                     child: Text(
-                      'Bloxkade is here can we see me now hahaha',
+                      'Bloxkade is here can we see me now',
                       textDirection: TextDirection.ltr,
                       style: TextStyle(
                         decoration: TextDecoration.none,
